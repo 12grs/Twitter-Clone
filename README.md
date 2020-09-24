@@ -1,4 +1,4 @@
-# Django Twitter Clone by Shalini Kumari
+# Django Twitter Clone by Garvit Sarjare
 
 Fully functional Twitter clone made for web using Django.
 
