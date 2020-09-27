@@ -11,7 +11,7 @@ Demo Image:
 
 2. Move to the base directory: ```cd Twitter-Clone```
 
-3. Create a new python enveronment with: ```python -m venv env```.
+3. Create a new python environment with: ```python -m venv env```.
 
 4. Activate enveronment with: ```env\Scripts\activate``` on windows, or ```source env/bin/activate``` on Mac and Linux.
 
